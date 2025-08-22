@@ -4,3 +4,6 @@
 .custom-nav-link.active{
     color: black !important;
 }
+.custom-nav-link {
+    color: black !important;
+}
